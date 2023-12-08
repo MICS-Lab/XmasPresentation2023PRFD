@@ -80,14 +80,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#5aa02c;stroke-width:0.999993;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect3160"
-       width="81.500008"
-       height="81.5"
-       x="9.3313274"
-       y="9.0371313"
-       ry="0" />
     <path
        style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:0.6;stroke-linecap:square;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow3);paint-order:stroke markers fill"
        d="M 50.081328,99.787132 V 0.48713204"
@@ -98,6 +90,30 @@
        d="M 0.0813284,49.787132 H 99.381328"
        id="path236-0"
        sodipodi:nodetypes="cc" />
+    <path
+       id="path1889"
+       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 71.366744,28.501712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
+    <path
+       id="path1889-6"
+       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 30.866744,28.501712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
+    <path
+       id="path1889-5"
+       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 30.866744,69.001712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
+    <path
+       id="path1889-0"
+       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 71.366744,69.001712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#5aa02c;stroke-width:0.999993;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect3160"
+       width="81.500008"
+       height="81.5"
+       x="9.3313274"
+       y="9.0371313"
+       ry="0" />
     <circle
        style="fill:none;fill-opacity:0.5;stroke:#37abc8;stroke-width:0.791128;stroke-linecap:square;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke markers fill"
        id="path1491"
@@ -128,21 +144,5 @@
        cx="50.081329"
        cy="49.787128"
        r="8.4789181" />
-    <path
-       id="path1889"
-       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       d="m 71.366744,28.501712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
-    <path
-       id="path1889-6"
-       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       d="m 30.866744,28.501712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
-    <path
-       id="path1889-5"
-       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       d="m 30.866744,69.001712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
-    <path
-       id="path1889-0"
-       style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       d="m 71.366744,69.001712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
   </g>
 </svg>
