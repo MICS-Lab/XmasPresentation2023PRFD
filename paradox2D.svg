@@ -166,6 +166,28 @@
        d="m 71.366744,69.001712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
     <text
        xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="71.26059"
+       y="27.455141"
+       id="text1995"><tspan
+         sodipodi:role="line"
+         id="tspan1993"
+         style="font-size:4.93889px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="71.26059"
+         y="27.455141">(1,1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#447821;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="87.805176"
+       y="7.1675611"
+       id="text1995-1"><tspan
+         sodipodi:role="line"
+         id="tspan1993-65"
+         style="font-size:4.93889px;fill:#447821;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="87.805176"
+         y="7.1675611">(2,2)</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        x="61.101074"
        y="24.924685"
