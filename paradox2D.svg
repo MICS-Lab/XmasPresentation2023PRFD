@@ -75,6 +75,26 @@
          transform="rotate(180,0.125,0)"
          sodipodi:nodetypes="ccc" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-8-7"
+       refX="-1"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="3"
+       markerHeight="4.9915538"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-5-9"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -144,5 +164,37 @@
        id="path1889-0"
        style="fill:none;fill-opacity:0.5;stroke:#808080;stroke-width:0.42916;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        d="m 71.366744,69.001712 -2.049616,2.056096 m -0.02122,-2.041355 2.049616,2.056098" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="61.101074"
+       y="24.924685"
+       id="text1995-9"><tspan
+         sodipodi:role="line"
+         id="tspan1993-6"
+         style="font-size:4.93889px;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="61.101074"
+         y="24.924685">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#aa0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="47.437096"
+       y="46.337433"
+       id="text1995-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan1993-6-5"
+         style="font-size:4.93889px;fill:#aa0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4"
+         x="47.437096"
+         y="46.337433">√2-1</tspan></text>
+    <path
+       style="fill:#2c89a0;fill-opacity:1;stroke:#2c89a0;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow3-8);marker-end:url(#Arrow3-8);paint-order:stroke markers fill"
+       d="M 58.054472,15.688542 69.669864,28.909044"
+       id="path3988"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow3-8-7);marker-end:url(#Arrow3-8-7);paint-order:stroke markers fill"
+       d="m 45.224727,44.266227 4.131845,4.87167"
+       id="path3988-1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
